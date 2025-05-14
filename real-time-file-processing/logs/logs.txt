@@ -1,0 +1,448 @@
+[INFO] 1:34:00 pm - File Created: file_1747209840872.txt | Processing Time: 1s
+[INFO] 1:34:00 pm - Processing Started: file_1747209840872.txt
+[INFO] 1:34:01 pm - File file_1747209840872.txt -> Final-Status: Completed at 1:34:01 pm
+[INFO] 1:34:03 pm - File Created: file_1747209843879.txt | Processing Time: 4s
+[INFO] 1:34:03 pm - Processing Started: file_1747209843879.txt
+[INFO] 1:34:06 pm - File Created: file_1747209846883.txt | Processing Time: 3s
+[WARNING] 1:34:06 pm - File file_1747209843879.txt is still In-Progress after 3s
+[INFO] 1:34:06 pm - Processing Started: file_1747209846883.txt
+[INFO] 1:34:07 pm - File file_1747209843879.txt -> Final-Status: Completed at 1:34:07 pm
+[INFO] 1:34:09 pm - File Created: file_1747209849895.txt | Processing Time: 4s
+[WARNING] 1:34:09 pm - File file_1747209846883.txt is still In-Progress after 3s
+[INFO] 1:34:09 pm - File file_1747209846883.txt -> Final-Status: Completed at 1:34:09 pm
+[INFO] 1:34:09 pm - Processing Started: file_1747209849895.txt
+[INFO] 1:34:12 pm - File Created: file_1747209852907.txt | Processing Time: 4s
+[WARNING] 1:34:12 pm - File file_1747209849895.txt is still In-Progress after 3s
+[INFO] 1:34:12 pm - Processing Started: file_1747209852907.txt
+[INFO] 1:34:13 pm - File file_1747209849895.txt -> Final-Status: Completed at 1:34:13 pm
+[INFO] 1:34:15 pm - File Created: file_1747209855913.txt | Processing Time: 2s
+[WARNING] 1:34:16 pm - File file_1747209852907.txt is still In-Progress after 3s
+[INFO] 1:34:16 pm - Processing Started: file_1747209855913.txt
+[INFO] 1:34:16 pm - File file_1747209852907.txt -> Final-Status: Completed at 1:34:16 pm
+[INFO] 1:34:18 pm - File file_1747209855913.txt -> Final-Status: Completed at 1:34:18 pm
+[INFO] 1:34:18 pm - File Created: file_1747209858926.txt | Processing Time: 6s
+[INFO] 1:34:19 pm - Processing Started: file_1747209858926.txt
+[INFO] 1:34:21 pm - File Created: file_1747209861939.txt | Processing Time: 4s
+[WARNING] 1:34:22 pm - File file_1747209858926.txt is still In-Progress after 3s
+[INFO] 1:34:22 pm - Processing Started: file_1747209861939.txt
+[INFO] 1:34:24 pm - File Created: file_1747209864949.txt | Processing Time: 6s
+[ERROR] 1:34:25 pm - File file_1747209858926.txt crashed (Time > 5s)
+[INFO] 1:34:25 pm - File file_1747209858926.txt -> Final-Status: Crashed at 1:34:25 pm
+[WARNING] 1:34:25 pm - File file_1747209861939.txt is still In-Progress after 3s
+[INFO] 1:34:25 pm - Processing Started: file_1747209864949.txt
+[INFO] 1:34:26 pm - File file_1747209861939.txt -> Final-Status: Completed at 1:34:26 pm
+[INFO] 1:34:27 pm - File Created: file_1747209867950.txt | Processing Time: 3s
+[WARNING] 1:34:28 pm - File file_1747209864949.txt is still In-Progress after 3s
+[INFO] 1:34:28 pm - Processing Started: file_1747209867950.txt
+[INFO] 1:34:30 pm - File Created: file_1747209870963.txt | Processing Time: 1s
+[ERROR] 1:34:31 pm - File file_1747209864949.txt crashed (Time > 5s)
+[INFO] 1:34:31 pm - File file_1747209864949.txt -> Final-Status: Crashed at 1:34:31 pm
+[WARNING] 1:34:31 pm - File file_1747209867950.txt is still In-Progress after 3s
+[INFO] 1:34:31 pm - File file_1747209867950.txt -> Final-Status: Completed at 1:34:31 pm
+[INFO] 1:34:31 pm - Processing Started: file_1747209870963.txt
+[INFO] 1:34:32 pm - File file_1747209870963.txt -> Final-Status: Completed at 1:34:32 pm
+[INFO] 1:34:33 pm - File Created: file_1747209873980.txt | Processing Time: 6s
+[INFO] 1:34:34 pm - Processing Started: file_1747209873980.txt
+[INFO] 1:34:36 pm - File Created: file_1747209876980.txt | Processing Time: 2s
+[WARNING] 1:34:37 pm - File file_1747209873980.txt is still In-Progress after 3s
+[INFO] 1:34:37 pm - Processing Started: file_1747209876980.txt
+[INFO] 1:34:39 pm - File file_1747209876980.txt -> Final-Status: Completed at 1:34:39 pm
+[INFO] 1:34:39 pm - File Created: file_1747209879989.txt | Processing Time: 6s
+[ERROR] 1:34:40 pm - File file_1747209873980.txt crashed (Time > 5s)
+[INFO] 1:34:40 pm - File file_1747209873980.txt -> Final-Status: Crashed at 1:34:40 pm
+[INFO] 1:34:40 pm - Processing Started: file_1747209879989.txt
+[INFO] 1:34:42 pm - File Created: file_1747209882994.txt | Processing Time: 5s
+[WARNING] 1:34:43 pm - File file_1747209879989.txt is still In-Progress after 3s
+[INFO] 1:34:43 pm - Processing Started: file_1747209882994.txt
+[INFO] 1:34:46 pm - File Created: file_1747209886008.txt | Processing Time: 1s
+[ERROR] 1:34:46 pm - File file_1747209879989.txt crashed (Time > 5s)
+[INFO] 1:34:46 pm - File file_1747209879989.txt -> Final-Status: Crashed at 1:34:46 pm
+[WARNING] 1:34:46 pm - File file_1747209882994.txt is still In-Progress after 3s
+[INFO] 1:34:46 pm - Processing Started: file_1747209886008.txt
+[INFO] 1:34:47 pm - File file_1747209886008.txt -> Final-Status: Completed at 1:34:47 pm
+[ERROR] 1:34:48 pm - File file_1747209882994.txt crashed (Time > 5s)
+[INFO] 1:34:48 pm - File file_1747209882994.txt -> Final-Status: Crashed at 1:34:48 pm
+[INFO] 1:34:49 pm - File Created: file_1747209889023.txt | Processing Time: 1s
+[INFO] 1:34:49 pm - Processing Started: file_1747209889023.txt
+[INFO] 1:34:50 pm - File file_1747209889023.txt -> Final-Status: Completed at 1:34:50 pm
+[INFO] 1:34:52 pm - File Created: file_1747209892033.txt | Processing Time: 5s
+[INFO] 1:34:52 pm - Processing Started: file_1747209892033.txt
+[INFO] 1:34:55 pm - File Created: file_1747209895038.txt | Processing Time: 3s
+[WARNING] 1:34:55 pm - File file_1747209892033.txt is still In-Progress after 3s
+[INFO] 1:34:55 pm - Processing Started: file_1747209895038.txt
+[ERROR] 1:34:57 pm - File file_1747209892033.txt crashed (Time > 5s)
+[INFO] 1:34:57 pm - File file_1747209892033.txt -> Final-Status: Crashed at 1:34:57 pm
+[INFO] 1:34:58 pm - File Created: file_1747209898041.txt | Processing Time: 1s
+[WARNING] 1:34:58 pm - File file_1747209895038.txt is still In-Progress after 3s
+[INFO] 1:34:58 pm - File file_1747209895038.txt -> Final-Status: Completed at 1:34:58 pm
+[INFO] 1:34:58 pm - Processing Started: file_1747209898041.txt
+[INFO] 1:34:59 pm - File file_1747209898041.txt -> Final-Status: Completed at 1:34:59 pm
+[INFO] 1:35:01 pm - File Created: file_1747209901049.txt | Processing Time: 6s
+[INFO] 1:35:01 pm - Processing Started: file_1747209901049.txt
+[INFO] 1:35:04 pm - File Created: file_1747209904054.txt | Processing Time: 1s
+[WARNING] 1:35:04 pm - File file_1747209901049.txt is still In-Progress after 3s
+[INFO] 1:35:04 pm - Processing Started: file_1747209904054.txt
+[INFO] 1:35:05 pm - File file_1747209904054.txt -> Final-Status: Completed at 1:35:05 pm
+[INFO] 1:35:07 pm - File Created: file_1747209907067.txt | Processing Time: 5s
+[ERROR] 1:35:07 pm - File file_1747209901049.txt crashed (Time > 5s)
+[INFO] 1:35:07 pm - File file_1747209901049.txt -> Final-Status: Crashed at 1:35:07 pm
+[INFO] 1:35:07 pm - Processing Started: file_1747209907067.txt
+[INFO] 1:35:10 pm - File Created: file_1747209910071.txt | Processing Time: 5s
+[WARNING] 1:35:10 pm - File file_1747209907067.txt is still In-Progress after 3s
+[INFO] 1:35:10 pm - Processing Started: file_1747209910071.txt
+[ERROR] 1:35:12 pm - File file_1747209907067.txt crashed (Time > 5s)
+[INFO] 1:35:12 pm - File file_1747209907067.txt -> Final-Status: Crashed at 1:35:12 pm
+[INFO] 1:35:13 pm - File Created: file_1747209913077.txt | Processing Time: 5s
+[INFO] 1:35:13 pm - Processing Started: file_1747209913077.txt
+[WARNING] 1:35:13 pm - File file_1747209910071.txt is still In-Progress after 3s
+[ERROR] 1:35:15 pm - File file_1747209910071.txt crashed (Time > 5s)
+[INFO] 1:35:15 pm - File file_1747209910071.txt -> Final-Status: Crashed at 1:35:15 pm
+[INFO] 1:35:16 pm - File Created: file_1747209916078.txt | Processing Time: 5s
+[WARNING] 1:35:16 pm - File file_1747209913077.txt is still In-Progress after 3s
+[INFO] 1:35:16 pm - Processing Started: file_1747209916078.txt
+[ERROR] 1:35:18 pm - File file_1747209913077.txt crashed (Time > 5s)
+[INFO] 1:35:18 pm - File file_1747209913077.txt -> Final-Status: Crashed at 1:35:18 pm
+[INFO] 1:35:19 pm - File Created: file_1747209919093.txt | Processing Time: 2s
+[WARNING] 1:35:19 pm - File file_1747209916078.txt is still In-Progress after 3s
+[INFO] 1:35:19 pm - Processing Started: file_1747209919093.txt
+[ERROR] 1:35:21 pm - File file_1747209916078.txt crashed (Time > 5s)
+[INFO] 1:35:21 pm - File file_1747209916078.txt -> Final-Status: Crashed at 1:35:21 pm
+[INFO] 1:35:21 pm - File file_1747209919093.txt -> Final-Status: Completed at 1:35:21 pm
+[INFO] 1:35:22 pm - File Created: file_1747209922104.txt | Processing Time: 6s
+[INFO] 1:35:22 pm - Processing Started: file_1747209922104.txt
+[INFO] 1:35:25 pm - File Created: file_1747209925119.txt | Processing Time: 6s
+[WARNING] 1:35:25 pm - File file_1747209922104.txt is still In-Progress after 3s
+[INFO] 1:35:25 pm - Processing Started: file_1747209925119.txt
+[INFO] 1:35:28 pm - File Created: file_1747209928126.txt | Processing Time: 6s
+[ERROR] 1:35:28 pm - File file_1747209922104.txt crashed (Time > 5s)
+[INFO] 1:35:28 pm - File file_1747209922104.txt -> Final-Status: Crashed at 1:35:28 pm
+[WARNING] 1:35:28 pm - File file_1747209925119.txt is still In-Progress after 3s
+[INFO] 1:35:28 pm - Processing Started: file_1747209928126.txt
+[INFO] 1:35:31 pm - File Created: file_1747209931130.txt | Processing Time: 6s
+[ERROR] 1:35:31 pm - File file_1747209925119.txt crashed (Time > 5s)
+[INFO] 1:35:31 pm - File file_1747209925119.txt -> Final-Status: Crashed at 1:35:31 pm
+[WARNING] 1:35:31 pm - File file_1747209928126.txt is still In-Progress after 3s
+[INFO] 1:35:31 pm - Processing Started: file_1747209931130.txt
+[INFO] 1:35:34 pm - File Created: file_1747209934140.txt | Processing Time: 6s
+[ERROR] 1:35:34 pm - File file_1747209928126.txt crashed (Time > 5s)
+[INFO] 1:35:34 pm - File file_1747209928126.txt -> Final-Status: Crashed at 1:35:34 pm
+[INFO] 1:35:34 pm - Processing Started: file_1747209934140.txt
+[WARNING] 1:35:34 pm - File file_1747209931130.txt is still In-Progress after 3s
+[INFO] 1:35:37 pm - File Created: file_1747209937144.txt | Processing Time: 5s
+[ERROR] 1:35:37 pm - File file_1747209931130.txt crashed (Time > 5s)
+[INFO] 1:35:37 pm - File file_1747209931130.txt -> Final-Status: Crashed at 1:35:37 pm
+[WARNING] 1:35:37 pm - File file_1747209934140.txt is still In-Progress after 3s
+[INFO] 1:35:37 pm - Processing Started: file_1747209937144.txt
+[INFO] 1:35:40 pm - File Created: file_1747209940159.txt | Processing Time: 3s
+[ERROR] 1:35:40 pm - File file_1747209934140.txt crashed (Time > 5s)
+[INFO] 1:35:40 pm - File file_1747209934140.txt -> Final-Status: Crashed at 1:35:40 pm
+[WARNING] 1:35:40 pm - File file_1747209937144.txt is still In-Progress after 3s
+[INFO] 1:35:40 pm - Processing Started: file_1747209940159.txt
+[ERROR] 1:35:42 pm - File file_1747209937144.txt crashed (Time > 5s)
+[INFO] 1:35:42 pm - File file_1747209937144.txt -> Final-Status: Crashed at 1:35:42 pm
+[INFO] 1:35:43 pm - File Created: file_1747209943160.txt | Processing Time: 1s
+[WARNING] 1:35:43 pm - File file_1747209940159.txt is still In-Progress after 3s
+[INFO] 1:35:43 pm - File file_1747209940159.txt -> Final-Status: Completed at 1:35:43 pm
+[INFO] 1:35:43 pm - Processing Started: file_1747209943160.txt
+[INFO] 1:35:44 pm - File file_1747209943160.txt -> Final-Status: Completed at 1:35:44 pm
+[INFO] 1:35:46 pm - File Created: file_1747209946160.txt | Processing Time: 1s
+[INFO] 1:35:46 pm - Processing Started: file_1747209946160.txt
+[INFO] 1:35:47 pm - File file_1747209946160.txt -> Final-Status: Completed at 1:35:47 pm
+[INFO] 1:35:49 pm - File Created: file_1747209949176.txt | Processing Time: 6s
+[INFO] 1:35:49 pm - Processing Started: file_1747209949176.txt
+[INFO] 1:35:52 pm - File Created: file_1747209952181.txt | Processing Time: 3s
+[WARNING] 1:35:52 pm - File file_1747209949176.txt is still In-Progress after 3s
+[INFO] 1:35:52 pm - Processing Started: file_1747209952181.txt
+[INFO] 1:35:55 pm - File Created: file_1747209955182.txt | Processing Time: 1s
+[ERROR] 1:35:55 pm - File file_1747209949176.txt crashed (Time > 5s)
+[INFO] 1:35:55 pm - File file_1747209949176.txt -> Final-Status: Crashed at 1:35:55 pm
+[WARNING] 1:35:55 pm - File file_1747209952181.txt is still In-Progress after 3s
+[INFO] 1:35:55 pm - File file_1747209952181.txt -> Final-Status: Completed at 1:35:55 pm
+[INFO] 1:35:55 pm - Processing Started: file_1747209955182.txt
+[INFO] 1:35:56 pm - File file_1747209955182.txt -> Final-Status: Completed at 1:35:56 pm
+[INFO] 1:35:58 pm - File Created: file_1747209958196.txt | Processing Time: 1s
+[INFO] 1:35:58 pm - Processing Started: file_1747209958196.txt
+[INFO] 1:35:59 pm - File file_1747209958196.txt -> Final-Status: Completed at 1:35:59 pm
+[INFO] 1:36:01 pm - File Created: file_1747209961200.txt | Processing Time: 1s
+[INFO] 1:36:01 pm - Processing Started: file_1747209961200.txt
+[INFO] 1:36:02 pm - File file_1747209961200.txt -> Final-Status: Completed at 1:36:02 pm
+[INFO] 1:36:04 pm - File Created: file_1747209964211.txt | Processing Time: 4s
+[INFO] 1:36:04 pm - Processing Started: file_1747209964211.txt
+[INFO] 1:36:07 pm - File Created: file_1747209967222.txt | Processing Time: 3s
+[WARNING] 1:36:07 pm - File file_1747209964211.txt is still In-Progress after 3s
+[INFO] 1:36:07 pm - Processing Started: file_1747209967222.txt
+[INFO] 1:36:08 pm - File file_1747209964211.txt -> Final-Status: Completed at 1:36:08 pm
+[INFO] 1:36:10 pm - File Created: file_1747209970227.txt | Processing Time: 5s
+[WARNING] 1:36:10 pm - File file_1747209967222.txt is still In-Progress after 3s
+[INFO] 1:36:10 pm - File file_1747209967222.txt -> Final-Status: Completed at 1:36:10 pm
+[INFO] 1:36:10 pm - Processing Started: file_1747209970227.txt
+[INFO] 1:36:13 pm - File Created: file_1747209973239.txt | Processing Time: 6s
+[INFO] 1:36:13 pm - Processing Started: file_1747209973239.txt
+[WARNING] 1:36:13 pm - File file_1747209970227.txt is still In-Progress after 3s
+[ERROR] 1:36:15 pm - File file_1747209970227.txt crashed (Time > 5s)
+[INFO] 1:36:15 pm - File file_1747209970227.txt -> Final-Status: Crashed at 1:36:15 pm
+[INFO] 1:36:16 pm - File Created: file_1747209976240.txt | Processing Time: 3s
+[WARNING] 1:36:16 pm - File file_1747209973239.txt is still In-Progress after 3s
+[INFO] 1:36:16 pm - Processing Started: file_1747209976240.txt
+[INFO] 1:36:19 pm - File Created: file_1747209979248.txt | Processing Time: 5s
+[ERROR] 1:36:19 pm - File file_1747209973239.txt crashed (Time > 5s)
+[INFO] 1:36:19 pm - File file_1747209973239.txt -> Final-Status: Crashed at 1:36:19 pm
+[INFO] 1:36:20 pm - Processing Started: file_1747209979248.txt
+[WARNING] 1:36:20 pm - File file_1747209976240.txt is still In-Progress after 3s
+[INFO] 1:36:20 pm - File file_1747209976240.txt -> Final-Status: Completed at 1:36:20 pm
+[INFO] 1:36:22 pm - File Created: file_1747209982252.txt | Processing Time: 1s
+[WARNING] 1:36:23 pm - File file_1747209979248.txt is still In-Progress after 3s
+[INFO] 1:36:23 pm - Processing Started: file_1747209982252.txt
+[INFO] 1:36:24 pm - File file_1747209982252.txt -> Final-Status: Completed at 1:36:24 pm
+[ERROR] 1:36:25 pm - File file_1747209979248.txt crashed (Time > 5s)
+[INFO] 1:36:25 pm - File file_1747209979248.txt -> Final-Status: Crashed at 1:36:25 pm
+[INFO] 1:36:25 pm - File Created: file_1747209985257.txt | Processing Time: 1s
+[INFO] 1:36:26 pm - Processing Started: file_1747209985257.txt
+[INFO] 1:36:27 pm - File file_1747209985257.txt -> Final-Status: Completed at 1:36:27 pm
+[INFO] 1:36:28 pm - File Created: file_1747209988271.txt | Processing Time: 4s
+[INFO] 1:36:29 pm - Processing Started: file_1747209988271.txt
+[INFO] 1:36:31 pm - File Created: file_1747209991275.txt | Processing Time: 3s
+[INFO] 1:36:32 pm - Processing Started: file_1747209991275.txt
+[WARNING] 1:36:32 pm - File file_1747209988271.txt is still In-Progress after 3s
+[INFO] 1:36:33 pm - File file_1747209988271.txt -> Final-Status: Completed at 1:36:33 pm
+[INFO] 1:36:34 pm - File Created: file_1747209994276.txt | Processing Time: 6s
+[WARNING] 1:36:35 pm - File file_1747209991275.txt is still In-Progress after 3s
+[INFO] 1:36:35 pm - File file_1747209991275.txt -> Final-Status: Completed at 1:36:35 pm
+[INFO] 1:36:35 pm - Processing Started: file_1747209994276.txt
+[INFO] 1:36:37 pm - File Created: file_1747209997282.txt | Processing Time: 6s
+[WARNING] 1:36:38 pm - File file_1747209994276.txt is still In-Progress after 3s
+[INFO] 1:36:38 pm - Processing Started: file_1747209997282.txt
+[INFO] 1:36:40 pm - File Created: file_1747210000289.txt | Processing Time: 6s
+[ERROR] 1:36:41 pm - File file_1747209994276.txt crashed (Time > 5s)
+[INFO] 1:36:41 pm - File file_1747209994276.txt -> Final-Status: Crashed at 1:36:41 pm
+[WARNING] 1:36:41 pm - File file_1747209997282.txt is still In-Progress after 3s
+[INFO] 1:36:41 pm - Processing Started: file_1747210000289.txt
+[INFO] 1:36:43 pm - File Created: file_1747210003300.txt | Processing Time: 4s
+[ERROR] 1:36:44 pm - File file_1747209997282.txt crashed (Time > 5s)
+[INFO] 1:36:44 pm - File file_1747209997282.txt -> Final-Status: Crashed at 1:36:44 pm
+[INFO] 1:36:44 pm - Processing Started: file_1747210003300.txt
+[WARNING] 1:36:44 pm - File file_1747210000289.txt is still In-Progress after 3s
+[INFO] 1:36:46 pm - File Created: file_1747210006306.txt | Processing Time: 1s
+[ERROR] 1:36:47 pm - File file_1747210000289.txt crashed (Time > 5s)
+[INFO] 1:36:47 pm - File file_1747210000289.txt -> Final-Status: Crashed at 1:36:47 pm
+[WARNING] 1:36:47 pm - File file_1747210003300.txt is still In-Progress after 3s
+[INFO] 1:36:47 pm - Processing Started: file_1747210006306.txt
+[INFO] 1:36:48 pm - File file_1747210003300.txt -> Final-Status: Completed at 1:36:48 pm
+[INFO] 1:36:48 pm - File file_1747210006306.txt -> Final-Status: Completed at 1:36:48 pm
+[INFO] 1:36:49 pm - File Created: file_1747210009317.txt | Processing Time: 5s
+[INFO] 1:36:50 pm - Processing Started: file_1747210009317.txt
+[INFO] 1:36:52 pm - File Created: file_1747210012323.txt | Processing Time: 5s
+[WARNING] 1:36:53 pm - File file_1747210009317.txt is still In-Progress after 3s
+[INFO] 1:36:53 pm - Processing Started: file_1747210012323.txt
+[ERROR] 1:36:55 pm - File file_1747210009317.txt crashed (Time > 5s)
+[INFO] 1:36:55 pm - File file_1747210009317.txt -> Final-Status: Crashed at 1:36:55 pm
+[INFO] 1:36:55 pm - File Created: file_1747210015330.txt | Processing Time: 3s
+[WARNING] 1:36:56 pm - File file_1747210012323.txt is still In-Progress after 3s
+[INFO] 1:36:56 pm - Processing Started: file_1747210015330.txt
+[ERROR] 1:36:58 pm - File file_1747210012323.txt crashed (Time > 5s)
+[INFO] 1:36:58 pm - File file_1747210012323.txt -> Final-Status: Crashed at 1:36:58 pm
+[INFO] 1:36:58 pm - File Created: file_1747210018338.txt | Processing Time: 4s
+[WARNING] 1:36:59 pm - File file_1747210015330.txt is still In-Progress after 3s
+[INFO] 1:36:59 pm - File file_1747210015330.txt -> Final-Status: Completed at 1:36:59 pm
+[INFO] 1:36:59 pm - Processing Started: file_1747210018338.txt
+[INFO] 1:37:01 pm - File Created: file_1747210021340.txt | Processing Time: 6s
+[WARNING] 1:37:02 pm - File file_1747210018338.txt is still In-Progress after 3s
+[INFO] 1:37:02 pm - Processing Started: file_1747210021340.txt
+[INFO] 1:37:03 pm - File file_1747210018338.txt -> Final-Status: Completed at 1:37:03 pm
+[INFO] 1:37:04 pm - File Created: file_1747210024346.txt | Processing Time: 3s
+[WARNING] 1:37:05 pm - File file_1747210021340.txt is still In-Progress after 3s
+[INFO] 1:37:05 pm - Processing Started: file_1747210024346.txt
+[INFO] 1:37:07 pm - File Created: file_1747210027350.txt | Processing Time: 2s
+[ERROR] 1:37:08 pm - File file_1747210021340.txt crashed (Time > 5s)
+[INFO] 1:37:08 pm - File file_1747210021340.txt -> Final-Status: Crashed at 1:37:08 pm
+[WARNING] 1:37:08 pm - File file_1747210024346.txt is still In-Progress after 3s
+[INFO] 1:37:08 pm - File file_1747210024346.txt -> Final-Status: Completed at 1:37:08 pm
+[INFO] 1:37:08 pm - Processing Started: file_1747210027350.txt
+[INFO] 1:37:10 pm - File file_1747210027350.txt -> Final-Status: Completed at 1:37:10 pm
+[INFO] 1:37:10 pm - File Created: file_1747210030355.txt | Processing Time: 2s
+[INFO] 1:37:11 pm - Processing Started: file_1747210030355.txt
+[INFO] 1:37:13 pm - File Created: file_1747210033354.txt | Processing Time: 4s
+[INFO] 1:37:13 pm - File file_1747210030355.txt -> Final-Status: Completed at 1:37:13 pm
+[INFO] 1:37:14 pm - Processing Started: file_1747210033354.txt
+[INFO] 1:37:16 pm - File Created: file_1747210036368.txt | Processing Time: 4s
+[INFO] 1:37:16 pm - Processing Started: file_1747210036368.txt
+[WARNING] 1:37:17 pm - File file_1747210033354.txt is still In-Progress after 3s
+[INFO] 1:37:18 pm - File file_1747210033354.txt -> Final-Status: Completed at 1:37:18 pm
+[INFO] 1:37:19 pm - File Created: file_1747210039384.txt | Processing Time: 3s
+[WARNING] 1:37:19 pm - File file_1747210036368.txt is still In-Progress after 3s
+[INFO] 1:37:19 pm - Processing Started: file_1747210039384.txt
+[INFO] 1:37:20 pm - File file_1747210036368.txt -> Final-Status: Completed at 1:37:20 pm
+[INFO] 1:37:22 pm - File Created: file_1747210042388.txt | Processing Time: 2s
+[WARNING] 1:37:22 pm - File file_1747210039384.txt is still In-Progress after 3s
+[INFO] 1:37:22 pm - File file_1747210039384.txt -> Final-Status: Completed at 1:37:22 pm
+[INFO] 1:37:22 pm - Processing Started: file_1747210042388.txt
+[INFO] 1:37:24 pm - File file_1747210042388.txt -> Final-Status: Completed at 1:37:24 pm
+[INFO] 1:37:25 pm - File Created: file_1747210045401.txt | Processing Time: 3s
+[INFO] 1:37:25 pm - Processing Started: file_1747210045401.txt
+[INFO] 1:37:28 pm - File Created: file_1747210048404.txt | Processing Time: 6s
+[WARNING] 1:37:28 pm - File file_1747210045401.txt is still In-Progress after 3s
+[INFO] 1:37:28 pm - File file_1747210045401.txt -> Final-Status: Completed at 1:37:28 pm
+[INFO] 1:37:28 pm - Processing Started: file_1747210048404.txt
+[INFO] 1:37:31 pm - File Created: file_1747210051415.txt | Processing Time: 3s
+[WARNING] 1:37:31 pm - File file_1747210048404.txt is still In-Progress after 3s
+[INFO] 1:37:31 pm - Processing Started: file_1747210051415.txt
+[INFO] 1:37:34 pm - File Created: file_1747210054429.txt | Processing Time: 2s
+[ERROR] 1:37:34 pm - File file_1747210048404.txt crashed (Time > 5s)
+[INFO] 1:37:34 pm - File file_1747210048404.txt -> Final-Status: Crashed at 1:37:34 pm
+[WARNING] 1:37:34 pm - File file_1747210051415.txt is still In-Progress after 3s
+[INFO] 1:37:34 pm - File file_1747210051415.txt -> Final-Status: Completed at 1:37:34 pm
+[INFO] 1:37:34 pm - Processing Started: file_1747210054429.txt
+[INFO] 1:37:36 pm - File file_1747210054429.txt -> Final-Status: Completed at 1:37:36 pm
+[INFO] 1:37:37 pm - File Created: file_1747210057429.txt | Processing Time: 5s
+[INFO] 1:37:37 pm - Processing Started: file_1747210057429.txt
+[INFO] 1:37:40 pm - File Created: file_1747210060437.txt | Processing Time: 3s
+[WARNING] 1:37:40 pm - File file_1747210057429.txt is still In-Progress after 3s
+[INFO] 1:37:40 pm - Processing Started: file_1747210060437.txt
+[ERROR] 1:37:42 pm - File file_1747210057429.txt crashed (Time > 5s)
+[INFO] 1:37:42 pm - File file_1747210057429.txt -> Final-Status: Crashed at 1:37:42 pm
+[INFO] 1:37:43 pm - File Created: file_1747210063451.txt | Processing Time: 4s
+[WARNING] 1:37:43 pm - File file_1747210060437.txt is still In-Progress after 3s
+[INFO] 1:37:43 pm - File file_1747210060437.txt -> Final-Status: Completed at 1:37:43 pm
+[INFO] 1:37:43 pm - Processing Started: file_1747210063451.txt
+[INFO] 1:37:46 pm - File Created: file_1747210066456.txt | Processing Time: 3s
+[WARNING] 1:37:46 pm - File file_1747210063451.txt is still In-Progress after 3s
+[INFO] 1:37:46 pm - Processing Started: file_1747210066456.txt
+[INFO] 1:37:47 pm - File file_1747210063451.txt -> Final-Status: Completed at 1:37:47 pm
+[INFO] 1:37:49 pm - File Created: file_1747210069464.txt | Processing Time: 1s
+[WARNING] 1:37:49 pm - File file_1747210066456.txt is still In-Progress after 3s
+[INFO] 1:37:49 pm - File file_1747210066456.txt -> Final-Status: Completed at 1:37:49 pm
+[INFO] 1:37:49 pm - Processing Started: file_1747210069464.txt
+[INFO] 1:37:50 pm - File file_1747210069464.txt -> Final-Status: Completed at 1:37:50 pm
+[INFO] 1:37:52 pm - File Created: file_1747210072471.txt | Processing Time: 4s
+[INFO] 1:37:52 pm - Processing Started: file_1747210072471.txt
+[INFO] 1:37:55 pm - File Created: file_1747210075481.txt | Processing Time: 1s
+[WARNING] 1:37:55 pm - File file_1747210072471.txt is still In-Progress after 3s
+[INFO] 1:37:55 pm - Processing Started: file_1747210075481.txt
+[INFO] 1:37:56 pm - File file_1747210072471.txt -> Final-Status: Completed at 1:37:56 pm
+[INFO] 1:37:56 pm - File file_1747210075481.txt -> Final-Status: Completed at 1:37:56 pm
+[INFO] 1:37:58 pm - File Created: file_1747210078483.txt | Processing Time: 2s
+[INFO] 1:37:58 pm - Processing Started: file_1747210078483.txt
+[INFO] 1:38:00 pm - File file_1747210078483.txt -> Final-Status: Completed at 1:38:00 pm
+[INFO] 1:38:01 pm - File Created: file_1747210081483.txt | Processing Time: 2s
+[INFO] 1:38:01 pm - Processing Started: file_1747210081483.txt
+[INFO] 1:38:03 pm - File file_1747210081483.txt -> Final-Status: Completed at 1:38:03 pm
+[INFO] 1:38:04 pm - File Created: file_1747210084486.txt | Processing Time: 4s
+[INFO] 1:38:04 pm - Processing Started: file_1747210084486.txt
+[INFO] 1:38:07 pm - File Created: file_1747210087495.txt | Processing Time: 3s
+[WARNING] 1:38:07 pm - File file_1747210084486.txt is still In-Progress after 3s
+[INFO] 1:38:07 pm - Processing Started: file_1747210087495.txt
+[INFO] 1:38:08 pm - File file_1747210084486.txt -> Final-Status: Completed at 1:38:08 pm
+[INFO] 1:38:10 pm - File Created: file_1747210090497.txt | Processing Time: 1s
+[WARNING] 1:38:10 pm - File file_1747210087495.txt is still In-Progress after 3s
+[INFO] 1:38:10 pm - File file_1747210087495.txt -> Final-Status: Completed at 1:38:10 pm
+[INFO] 1:38:10 pm - Processing Started: file_1747210090497.txt
+[INFO] 1:38:11 pm - File file_1747210090497.txt -> Final-Status: Completed at 1:38:11 pm
+[INFO] 1:38:13 pm - File Created: file_1747210093498.txt | Processing Time: 6s
+[INFO] 1:38:13 pm - Processing Started: file_1747210093498.txt
+[INFO] 1:38:16 pm - File Created: file_1747210096501.txt | Processing Time: 2s
+[WARNING] 1:38:16 pm - File file_1747210093498.txt is still In-Progress after 3s
+[INFO] 1:38:16 pm - Processing Started: file_1747210096501.txt
+[INFO] 1:38:18 pm - File file_1747210096501.txt -> Final-Status: Completed at 1:38:18 pm
+[INFO] 1:38:19 pm - File Created: file_1747210099509.txt | Processing Time: 1s
+[ERROR] 1:38:19 pm - File file_1747210093498.txt crashed (Time > 5s)
+[INFO] 1:38:19 pm - File file_1747210093498.txt -> Final-Status: Crashed at 1:38:19 pm
+[INFO] 1:38:19 pm - Processing Started: file_1747210099509.txt
+[INFO] 1:38:20 pm - File file_1747210099509.txt -> Final-Status: Completed at 1:38:20 pm
+[INFO] 1:38:22 pm - File Created: file_1747210102518.txt | Processing Time: 4s
+[INFO] 1:38:22 pm - Processing Started: file_1747210102518.txt
+[INFO] 1:38:25 pm - File Created: file_1747210105533.txt | Processing Time: 5s
+[WARNING] 1:38:25 pm - File file_1747210102518.txt is still In-Progress after 3s
+[INFO] 1:38:25 pm - Processing Started: file_1747210105533.txt
+[INFO] 1:38:26 pm - File file_1747210102518.txt -> Final-Status: Completed at 1:38:26 pm
+[INFO] 1:38:28 pm - File Created: file_1747210108545.txt | Processing Time: 5s
+[WARNING] 1:38:28 pm - File file_1747210105533.txt is still In-Progress after 3s
+[INFO] 1:38:28 pm - Processing Started: file_1747210108545.txt
+[ERROR] 1:38:30 pm - File file_1747210105533.txt crashed (Time > 5s)
+[INFO] 1:38:30 pm - File file_1747210105533.txt -> Final-Status: Crashed at 1:38:30 pm
+[INFO] 1:38:31 pm - File Created: file_1747210111545.txt | Processing Time: 2s
+[WARNING] 1:38:31 pm - File file_1747210108545.txt is still In-Progress after 3s
+[INFO] 1:38:31 pm - Processing Started: file_1747210111545.txt
+[ERROR] 1:38:33 pm - File file_1747210108545.txt crashed (Time > 5s)
+[INFO] 1:38:33 pm - File file_1747210108545.txt -> Final-Status: Crashed at 1:38:33 pm
+[INFO] 1:38:33 pm - File file_1747210111545.txt -> Final-Status: Completed at 1:38:33 pm
+[INFO] 1:38:34 pm - File Created: file_1747210114558.txt | Processing Time: 1s
+[INFO] 1:38:34 pm - Processing Started: file_1747210114558.txt
+[INFO] 1:38:36 pm - File file_1747210114558.txt -> Final-Status: Completed at 1:38:36 pm
+[INFO] 1:38:37 pm - File Created: file_1747210117562.txt | Processing Time: 3s
+[INFO] 1:38:38 pm - Processing Started: file_1747210117562.txt
+[INFO] 1:38:40 pm - File Created: file_1747210120569.txt | Processing Time: 6s
+[WARNING] 1:38:41 pm - File file_1747210117562.txt is still In-Progress after 3s
+[INFO] 1:38:41 pm - File file_1747210117562.txt -> Final-Status: Completed at 1:38:41 pm
+[INFO] 1:38:41 pm - Processing Started: file_1747210120569.txt
+[INFO] 1:38:43 pm - File Created: file_1747210123580.txt | Processing Time: 2s
+[WARNING] 1:38:44 pm - File file_1747210120569.txt is still In-Progress after 3s
+[INFO] 1:38:44 pm - Processing Started: file_1747210123580.txt
+[INFO] 1:38:46 pm - File file_1747210123580.txt -> Final-Status: Completed at 1:38:46 pm
+[INFO] 1:38:46 pm - File Created: file_1747210126591.txt | Processing Time: 1s
+[ERROR] 1:38:47 pm - File file_1747210120569.txt crashed (Time > 5s)
+[INFO] 1:38:47 pm - File file_1747210120569.txt -> Final-Status: Crashed at 1:38:47 pm
+[INFO] 1:38:47 pm - Processing Started: file_1747210126591.txt
+[INFO] 1:38:48 pm - File file_1747210126591.txt -> Final-Status: Completed at 1:38:48 pm
+[INFO] 1:38:49 pm - File Created: file_1747210129605.txt | Processing Time: 4s
+[INFO] 1:38:50 pm - Processing Started: file_1747210129605.txt
+[INFO] 1:38:52 pm - File Created: file_1747210132620.txt | Processing Time: 6s
+[WARNING] 1:38:53 pm - File file_1747210129605.txt is still In-Progress after 3s
+[INFO] 1:38:53 pm - Processing Started: file_1747210132620.txt
+[INFO] 1:38:54 pm - File file_1747210129605.txt -> Final-Status: Completed at 1:38:54 pm
+[INFO] 1:38:55 pm - File Created: file_1747210135626.txt | Processing Time: 3s
+[WARNING] 1:38:56 pm - File file_1747210132620.txt is still In-Progress after 3s
+[INFO] 1:38:56 pm - Processing Started: file_1747210135626.txt
+[INFO] 1:38:58 pm - File Created: file_1747210138634.txt | Processing Time: 2s
+[ERROR] 1:38:59 pm - File file_1747210132620.txt crashed (Time > 5s)
+[INFO] 1:38:59 pm - File file_1747210132620.txt -> Final-Status: Crashed at 1:38:59 pm
+[WARNING] 1:38:59 pm - File file_1747210135626.txt is still In-Progress after 3s
+[INFO] 1:38:59 pm - File file_1747210135626.txt -> Final-Status: Completed at 1:38:59 pm
+[INFO] 1:38:59 pm - Processing Started: file_1747210138634.txt
+[INFO] 1:39:01 pm - File file_1747210138634.txt -> Final-Status: Completed at 1:39:01 pm
+[INFO] 1:39:01 pm - File Created: file_1747210141642.txt | Processing Time: 2s
+[INFO] 1:39:02 pm - Processing Started: file_1747210141642.txt
+[INFO] 1:39:04 pm - File file_1747210141642.txt -> Final-Status: Completed at 1:39:04 pm
+[INFO] 1:39:04 pm - File Created: file_1747210144649.txt | Processing Time: 6s
+[INFO] 1:39:05 pm - Processing Started: file_1747210144649.txt
+[INFO] 1:39:07 pm - File Created: file_1747210147661.txt | Processing Time: 5s
+[WARNING] 1:39:08 pm - File file_1747210144649.txt is still In-Progress after 3s
+[INFO] 1:39:08 pm - Processing Started: file_1747210147661.txt
+[INFO] 1:39:10 pm - File Created: file_1747210150665.txt | Processing Time: 6s
+[ERROR] 1:39:11 pm - File file_1747210144649.txt crashed (Time > 5s)
+[INFO] 1:39:11 pm - File file_1747210144649.txt -> Final-Status: Crashed at 1:39:11 pm
+[WARNING] 1:39:11 pm - File file_1747210147661.txt is still In-Progress after 3s
+[INFO] 1:39:11 pm - Processing Started: file_1747210150665.txt
+[ERROR] 1:39:13 pm - File file_1747210147661.txt crashed (Time > 5s)
+[INFO] 1:39:13 pm - File file_1747210147661.txt -> Final-Status: Crashed at 1:39:13 pm
+[INFO] 1:39:13 pm - File Created: file_1747210153667.txt | Processing Time: 6s
+[WARNING] 1:39:14 pm - File file_1747210150665.txt is still In-Progress after 3s
+[INFO] 1:39:14 pm - Processing Started: file_1747210153667.txt
+[INFO] 1:39:16 pm - File Created: file_1747210156681.txt | Processing Time: 4s
+[ERROR] 1:39:17 pm - File file_1747210150665.txt crashed (Time > 5s)
+[INFO] 1:39:17 pm - File file_1747210150665.txt -> Final-Status: Crashed at 1:39:17 pm
+[WARNING] 1:39:17 pm - File file_1747210153667.txt is still In-Progress after 3s
+[INFO] 1:39:17 pm - Processing Started: file_1747210156681.txt
+[INFO] 1:39:19 pm - File Created: file_1747210159694.txt | Processing Time: 5s
+[ERROR] 1:39:20 pm - File file_1747210153667.txt crashed (Time > 5s)
+[INFO] 1:39:20 pm - File file_1747210153667.txt -> Final-Status: Crashed at 1:39:20 pm
+[WARNING] 1:39:20 pm - File file_1747210156681.txt is still In-Progress after 3s
+[INFO] 1:39:20 pm - Processing Started: file_1747210159694.txt
+[INFO] 1:39:21 pm - File file_1747210156681.txt -> Final-Status: Completed at 1:39:21 pm
+[INFO] 1:39:22 pm - File Created: file_1747210162700.txt | Processing Time: 2s
+[WARNING] 1:39:23 pm - File file_1747210159694.txt is still In-Progress after 3s
+[INFO] 1:39:23 pm - Processing Started: file_1747210162700.txt
+[ERROR] 1:39:25 pm - File file_1747210159694.txt crashed (Time > 5s)
+[INFO] 1:39:25 pm - File file_1747210159694.txt -> Final-Status: Crashed at 1:39:25 pm
+[INFO] 1:39:25 pm - File file_1747210162700.txt -> Final-Status: Completed at 1:39:25 pm
+[INFO] 1:39:25 pm - File Created: file_1747210165708.txt | Processing Time: 4s
+[INFO] 1:39:26 pm - Processing Started: file_1747210165708.txt
+[INFO] 1:39:28 pm - File Created: file_1747210168709.txt | Processing Time: 2s
+[WARNING] 1:39:29 pm - File file_1747210165708.txt is still In-Progress after 3s
+[INFO] 1:39:29 pm - Processing Started: file_1747210168709.txt
+[INFO] 1:39:30 pm - File file_1747210165708.txt -> Final-Status: Completed at 1:39:30 pm
+[INFO] 1:39:31 pm - File file_1747210168709.txt -> Final-Status: Completed at 1:39:31 pm
+[INFO] 1:39:31 pm - File Created: file_1747210171713.txt | Processing Time: 4s
+[INFO] 1:39:32 pm - Processing Started: file_1747210171713.txt
+[INFO] 1:39:34 pm - File Created: file_1747210174714.txt | Processing Time: 5s
+[WARNING] 1:39:35 pm - File file_1747210171713.txt is still In-Progress after 3s
+[INFO] 1:39:35 pm - Processing Started: file_1747210174714.txt
